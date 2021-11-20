@@ -2,9 +2,5 @@
 null,
 {"id":1,"expanded":false,"name":"Церковь","order":1,"parentId":0,"scrollX":811,"scrollY":681.5},
 {"id":2,"expanded":false,"name":"Келья","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
-<<<<<<< HEAD
 {"id":3,"expanded":false,"name":"Чумная деревня","order":3,"parentId":0,"scrollX":811,"scrollY":453.5}
-=======
-{"id":3,"expanded":false,"name":"Чумная деревня","order":3,"parentId":0,"scrollX":1390.2857142857142,"scrollY":791.1428571428571}
->>>>>>> 7d903c32999fab691632a3af255bc5bd534d502b
 ]
