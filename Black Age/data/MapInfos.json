@@ -12,6 +12,7 @@ null,
 {"id":10,"expanded":false,"name":"aquarium","order":9,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
 {"id":11,"expanded":false,"name":"я ебал","order":12,"parentId":0,"scrollX":973.1999999999999,"scrollY":1126.2},
 {"id":12,"expanded":false,"name":"Башня","order":11,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":13,"expanded":false,"name":"Церковь","order":13,"parentId":0,"scrollX":1081.3333333333333,"scrollY":996.6666666666666},
-{"id":14,"expanded":false,"name":"churche","order":14,"parentId":0,"scrollX":1017.8181818181819,"scrollY":1185.2727272727273}
+{"id":13,"expanded":true,"name":"Аббатство","order":14,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":14,"expanded":false,"name":"Церковь","order":15,"parentId":13,"scrollX":0,"scrollY":0},
+{"id":15,"expanded":false,"name":"Чумная деревня","order":13,"parentId":0,"scrollX":1081.3333333333333,"scrollY":744.6666666666666}
 ]
