@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"town","order":1,"parentId":0,"scrollX":1468.8,"scrollY":900.5999999999999},
-{"id":2,"expanded":false,"name":"castle","order":11,"parentId":0,"scrollX":973.0909090909091,"scrollY":553.6363636363636},
+{"id":2,"expanded":false,"name":"castle","order":11,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
 {"id":3,"expanded":false,"name":"dance hall","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
 {"id":4,"expanded":false,"name":"bar","order":3,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
 {"id":5,"expanded":false,"name":"inn","order":4,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
@@ -11,8 +11,10 @@ null,
 {"id":9,"expanded":false,"name":"house","order":8,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.1999999999999},
 {"id":10,"expanded":false,"name":"aquarium","order":9,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
 {"id":11,"expanded":false,"name":"Пример Церкви","order":13,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
-null,
-null,
-{"id":14,"expanded":false,"name":"Церковь","order":10,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
-{"id":15,"expanded":false,"name":"Чумная деревня","order":12,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334}
+{"id":12,"expanded":false,"name":"ориентировка","order":14,"parentId":0,"scrollX":1092,"scrollY":632.6666666666666},
+{"id":13,"expanded":false,"name":"Холл","order":15,"parentId":0,"scrollX":1081.3333333333333,"scrollY":642},
+{"id":14,"expanded":false,"name":"Церковь","order":10,"parentId":0,"scrollX":1081.3333333333333,"scrollY":632.6666666666666},
+{"id":15,"expanded":false,"name":"Чумная деревня","order":12,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
+{"id":16,"expanded":false,"name":"Келья","order":16,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":17,"expanded":false,"name":"Дом старосты","order":17,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334}
 ]
