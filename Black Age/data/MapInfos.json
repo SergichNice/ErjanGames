@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"town","order":1,"parentId":0,"scrollX":1468.8,"scrollY":900.5999999999999},
-{"id":2,"expanded":false,"name":"castle","order":10,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
+{"id":2,"expanded":false,"name":"castle","order":10,"parentId":0,"scrollX":1061,"scrollY":615.5},
 {"id":3,"expanded":false,"name":"dance hall","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
 {"id":4,"expanded":false,"name":"bar","order":3,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
 {"id":5,"expanded":false,"name":"inn","order":4,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
@@ -12,10 +12,10 @@ null,
 {"id":10,"expanded":false,"name":"aquarium","order":9,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.8},
 null,
 null,
-{"id":13,"expanded":false,"name":"Холл","order":12,"parentId":0,"scrollX":1081.3333333333333,"scrollY":664.6666666666666},
+{"id":13,"expanded":false,"name":"Холл","order":12,"parentId":0,"scrollX":816,"scrollY":720},
 null,
-{"id":15,"expanded":false,"name":"Чумная деревня","order":11,"parentId":0,"scrollX":1081.3333333333333,"scrollY":722},
-{"id":16,"expanded":false,"name":"Келья","order":13,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
-{"id":17,"expanded":false,"name":"Дом старосты","order":14,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
-{"id":18,"expanded":false,"name":"Церковь с выжившими","order":15,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334}
+{"id":15,"expanded":false,"name":"Чумная деревня","order":11,"parentId":0,"scrollX":811,"scrollY":985.5},
+{"id":16,"expanded":false,"name":"Келья","order":13,"parentId":0,"scrollX":811,"scrollY":640.5},
+{"id":17,"expanded":false,"name":"Дом старосты","order":14,"parentId":0,"scrollX":815,"scrollY":453.5},
+{"id":18,"expanded":false,"name":"Церковь с выжившими","order":15,"parentId":0,"scrollX":811,"scrollY":869.5}
 ]
