@@ -14,12 +14,13 @@ null,
 {"id":12,"expanded":false,"name":"Озеро духов","order":21,"parentId":0,"scrollX":1414,"scrollY":972},
 {"id":13,"expanded":false,"name":"Холл","order":13,"parentId":18,"scrollX":1081.3333333333333,"scrollY":720.6666666666666},
 {"id":14,"expanded":true,"name":"Шепчущий Лес","order":19,"parentId":0,"scrollX":850.1818181818181,"scrollY":552.3636363636364},
-{"id":15,"expanded":true,"name":"Чумная деревня","order":11,"parentId":0,"scrollX":1088,"scrollY":800},
+{"id":15,"expanded":true,"name":"Чумная деревня","order":11,"parentId":0,"scrollX":811,"scrollY":986.5},
 {"id":16,"expanded":false,"name":"Келья","order":14,"parentId":18,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
 {"id":17,"expanded":false,"name":"Дом старосты","order":15,"parentId":15,"scrollX":1081.4545454545455,"scrollY":604.7272727272727},
-{"id":18,"expanded":true,"name":"Церковь с выжившими","order":12,"parentId":15,"scrollX":1081.3333333333333,"scrollY":615.3333333333334},
+{"id":18,"expanded":true,"name":"Церковь с выжившими","order":12,"parentId":15,"scrollX":811,"scrollY":615.5},
 {"id":19,"expanded":false,"name":"Палатка торговца","order":17,"parentId":15,"scrollX":589.8181818181819,"scrollY":432.3636363636364},
 {"id":20,"expanded":false,"name":"Палатка караванщиков","order":20,"parentId":14,"scrollX":589.8181818181819,"scrollY":388.72727272727275},
 {"id":21,"expanded":false,"name":"Начальная кат-сцена","order":16,"parentId":15,"scrollX":1081.3333333333333,"scrollY":604.6666666666666},
-{"id":22,"expanded":false,"name":"Сон Охотника","order":22,"parentId":0,"scrollX":1296,"scrollY":942}
+{"id":22,"expanded":false,"name":"Сон Охотника","order":22,"parentId":0,"scrollX":1296,"scrollY":942},
+{"id":23,"expanded":false,"name":"Кукурузное поле","order":23,"parentId":0,"scrollX":811,"scrollY":478.5}
 ]
